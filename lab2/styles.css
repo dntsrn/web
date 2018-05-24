@@ -1,0 +1,33 @@
+
+p {  
+color:#d48383;
+style="text-decoration:underline"
+}
+h1
+ { font-style:italic;
+ color:#667afa;
+}
+img
+{   
+	 border-radius: 10px;
+     border: 2px solid #000;
+}
+p:hover{color:000;}
+.blockquote{ 
+border-color:#000;
+    border:2px solid #2107b5;
+	padding:0,5em 15px;
+	background:#c9edf2;
+	line-height:1.5;
+	margin:1,5 em 0;
+	border-left: 2px solid #ccci;
+	border-radius: 2px;
+	width:26%;
+	color:#a31231;
+
+}
+h2 {  font-size: 20px;
+color:#d48383;
+style="text-decoration:underline"
+}
+p:last-of-type:hover{color:white;}
