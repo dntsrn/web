@@ -1,0 +1,6 @@
+[0611/191650.709:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0611/191650.714:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0611/191650.714:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0611/191650.714:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0611/191650.714:ERROR:exception_snapshot_win.cc(88)] thread ID 6376 not found in process
+[0611/191650.714:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
